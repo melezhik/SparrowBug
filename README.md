@@ -1,0 +1,2 @@
+# SparrowBug
+Sparrow - Bugzilla Integration
